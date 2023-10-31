@@ -1,0 +1,31 @@
+ToDos
+
+1. Build the projects
+    - create folder
+    - add files
+    - connect files
+
+2. Navbar
+    - 2 links and a name
+
+3. Book item grid
+    - images
+    - title
+    - descriptions
+    - animation
+    - javascript
+    - books:
+        - Whisper (Alicia Parsons Cases Book 1)  
+        - Bonds (Alicia Parsons Cases Book 2)
+        - Universe Glow #1: The Universians (Universe Glow: The Anthology)
+        - Dirty Little Secrets About Black History : Its Heroes & Other Troublemakers
+        - The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book)
+        - Rad Women Worldwide: Artists and Athletes, Pirates and Punks, and Other Revolutionaries Who Shaped History
+        - The Drift House: The First Voyage
+        - The Richest Man in Babylon  
+        - Bet On Yourself: From zero to millions, Dr. Vernard L Hodges      
+
+
+4. About page
+    - images
+    - split column layout
